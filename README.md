@@ -1,2 +1,2 @@
-# primer-repositorio
+# Actualizar README
 Primer repositorio en GitHub
